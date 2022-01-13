@@ -1,5 +1,5 @@
 ##################### Restart
-restart on
+restart off
 #parmfile
 #plumedFile
 ##################### Duration 
